@@ -32,7 +32,6 @@ Sales data for 18 months from 365 stores of WOMart is available along with infor
 * Discount If discount is offered by store on the given Date, Yes/ No
 
 ## Evaluation Metric
-
 Evaluation The evaluation metric for this competition is MSLE * 1000 across all entries in the test set. Public and Private Split Test data is further divided into Public (First 20 Days) and Private (Last 41 Days). You will make the prediction for two months (61 days). • Your initial responses will be checked and scored on the Public data. • The final rankings would be based on your private score which will be published once the competition is over.
 
 ## Modelling
