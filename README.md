@@ -36,7 +36,7 @@ Evaluation The evaluation metric for this competition is MSLE * 1000 across all 
 
 ## Modelling
 * Stacked *XGBOOST* and *GBM* models to predict the sales.
-* This model gave an MSLE * 1000 score of 239.23 and a rank of 204 on the Public Split.
+* This model gave an MSLE * 1000 score of 225.564 and a rank of 204 on the Public Split.
 
 ## Dataset
 * Link - https://datahack.analyticsvidhya.com/contest/job-a-thon-september-2021/
